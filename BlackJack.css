@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&display=swap');
+
+
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: "poppins" ,sans-serif;
+    background-image: url(./alaw-rain-v04.gif);
+    text-align: center;
+    font-size: 30px;
+}
+button{
+    background-color: darkgoldenrod;
+    width: 170px;
+    height: 30px;
+    border: none;
+    font-size: 18px;
+    margin-top: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
